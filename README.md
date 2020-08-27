@@ -10,3 +10,5 @@ server events:
 
 enterZone - "server::playerZone:enter( string:zoneName )"
 exitZone - "server::playerZone:exit( string:zoneName )"
+
+lib = mp.game
